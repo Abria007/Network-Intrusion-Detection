@@ -1,0 +1,9 @@
+Experiment,Metric,Value,Notes
+XGBoost - group-aware test split,Accuracy,0.998931,Threshold 0.50
+XGBoost - group-aware test split,Precision,0.996201,Threshold 0.50
+XGBoost - group-aware test split,Recall,0.997367,Threshold 0.50
+XGBoost - group-aware test split,F1-score,0.996784,Threshold 0.50
+XGBoost - group-aware test split,ROC-AUC,0.999952,Computed using predicted probabilities
+XGBoost - group-aware test split,Average Precision,0.999755,Precision-recall evaluation
+Label-conflict investigation,Conflicting feature groups,697.0,Original labels include BENIGN and attack categories
+Bot category evaluation,Bot recall,0.67696,At threshold 0.50; 285 of 421 detected

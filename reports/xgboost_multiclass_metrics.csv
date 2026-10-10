@@ -1,0 +1,2 @@
+Model,Accuracy,Macro_F1,Weighted_F1
+XGBoost multiclass baseline,0.9988222215311897,0.9046328116030089,0.9987789864117199
